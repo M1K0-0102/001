@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: interior-design-pipeline
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: opencv-python
+Requires-Dist: pytest
+Requires-Dist: pytest-cov
+Requires-Dist: pytest-mock
